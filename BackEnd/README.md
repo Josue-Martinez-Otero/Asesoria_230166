@@ -1,4 +1,4 @@
-  ## Documentación  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ## BackEnd  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
   En este apartado se encontaran los archivos de codigo feunte de la aplicacion 
   ## Estructura de Archivos
